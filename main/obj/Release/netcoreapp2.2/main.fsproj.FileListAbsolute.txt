@@ -1,0 +1,10 @@
+C:\Users\carlos\fsharp\cubos\main\obj\Release\netcoreapp2.2\main.fsprojAssemblyReference.cache
+C:\Users\carlos\fsharp\cubos\main\obj\Release\netcoreapp2.2\main.AssemblyInfoInputs.cache
+C:\Users\carlos\fsharp\cubos\main\obj\Release\netcoreapp2.2\main.AssemblyInfo.fs
+C:\Users\carlos\fsharp\cubos\main\bin\Release\netcoreapp2.2\main.deps.json
+C:\Users\carlos\fsharp\cubos\main\bin\Release\netcoreapp2.2\main.runtimeconfig.json
+C:\Users\carlos\fsharp\cubos\main\bin\Release\netcoreapp2.2\main.runtimeconfig.dev.json
+C:\Users\carlos\fsharp\cubos\main\bin\Release\netcoreapp2.2\main.dll
+C:\Users\carlos\fsharp\cubos\main\bin\Release\netcoreapp2.2\main.pdb
+C:\Users\carlos\fsharp\cubos\main\obj\Release\netcoreapp2.2\main.dll
+C:\Users\carlos\fsharp\cubos\main\obj\Release\netcoreapp2.2\main.pdb
